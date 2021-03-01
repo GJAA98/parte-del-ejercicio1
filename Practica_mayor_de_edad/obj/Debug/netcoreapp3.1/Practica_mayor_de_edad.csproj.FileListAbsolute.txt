@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.exe
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.deps.json
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.dll
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\bin\Debug\netcoreapp3.1\Practica_mayor_de_edad.pdb
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.dll
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.pdb
+C:\Users\YeisonPX\source\repos\Practica_mayor_de_edad\Practica_mayor_de_edad\obj\Debug\netcoreapp3.1\Practica_mayor_de_edad.genruntimeconfig.cache
